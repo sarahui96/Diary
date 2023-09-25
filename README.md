@@ -1,8 +1,3 @@
-# React + Vite
+# Diary
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A react based application that helps user to add list of activities to do. Also this application gives them athe ability to delete the items from the list, thereby updating the list effortlessly. This application is built with the help of basic react concepts like components, props, useStates & useEffects.
